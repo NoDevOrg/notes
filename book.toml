@@ -1,0 +1,6 @@
+[book]
+authors = ["Sami Suteria <sami@no.dev>"]
+language = "en"
+multilingual = false
+src = "src"
+title = "no.dev notes"
